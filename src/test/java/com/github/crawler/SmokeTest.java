@@ -1,4 +1,10 @@
 package com.github.crawler;
 
-public class test {
+import org.junit.jupiter.api.Test;
+
+public class SmokeTest {
+    @Test
+    public void test() {
+
+    }
 }
